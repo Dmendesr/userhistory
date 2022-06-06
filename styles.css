@@ -1,0 +1,19 @@
+h1{
+    font-size: 40px;
+    margin-bottom: 0;
+    text-align: center;
+
+  }
+  p{
+      margin-top: 0;
+  }
+  h1,p{
+    background-color: lightgrey;
+
+  }
+
+p2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: azure;
+
+}
